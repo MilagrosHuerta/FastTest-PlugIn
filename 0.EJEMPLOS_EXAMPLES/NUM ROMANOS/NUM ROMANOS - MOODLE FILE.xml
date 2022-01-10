@@ -1,0 +1,3795 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/01_OM</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 101  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 101 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 94 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[XCIV]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>XCIX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CLIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 102  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 102 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 58 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LVIII]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 103  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 103 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 27 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[XXVII]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>XXXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 104  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 104 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 61 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LXI]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXVI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXXXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 105  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 105 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 80 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LXXX]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>XC</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXXV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CL</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 106  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 106 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 48 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[XLVIII]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 107  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 107 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 53 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LIII]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXXIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 108  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 108 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 54 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LIV]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LIX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 109  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 109 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 52 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LII]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 110  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 110 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Numero Romano de 51 es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[LI]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LXXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>LV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CXXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas…</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/02_O2</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 201  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 201 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 73.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXXXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 202  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 202 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 13.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXVI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>VI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 203  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 203 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 69.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 204  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 204 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 36.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XLV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 205  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 205 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 57.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 206  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 206 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 100.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>CI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>CXI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XCVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XCIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 207  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 207 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 28.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXXII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXVII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 208  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 208 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 36.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XLV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXXII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>XXVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 209  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 209 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 13.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>XXIV</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>VIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>VII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 210  -->
+  <question type="multichoice">
+    <name>
+      <text>NR - 210 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Indica los Números Romanos mayores que 65.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXIX</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>LXXVI</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LXIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="" format="html">
+      <text><![CDATA[<p>LVIII</p>]]></text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar mas.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/03_VF</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 301  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 301 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 24 es: XXIV</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 302  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 302 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 22 es: XXII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 303  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 303 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 1 es: II</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 304  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 304 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 83 es: XCII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 305  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 305 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 77 es: LXXXII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 306  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 306 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 84 es: LXXXIV</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 307  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 307 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 32 es: XXXII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 308  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 308 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 30 es: XXXVII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 309  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 309 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 75 es: LXXIX</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 310  -->
+  <question type="truefalse">
+    <name>
+      <text>NR - 310 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 83 es: LXXXIII</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+<answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+<answer fraction="0" format="html">
+      <text>false</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/04_EM</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 401  -->
+  <question type="matching">
+    <name>
+      <text>NR - 401 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>2</p>]]></text>
+      <answer>
+        <text>II</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>11</p>]]></text>
+      <answer>
+        <text>XI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>29</p>]]></text>
+      <answer>
+        <text>XXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>38</p>]]></text>
+      <answer>
+        <text>XXXVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>45</p>]]></text>
+      <answer>
+        <text>XLV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>58</p>]]></text>
+      <answer>
+        <text>LVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>66</p>]]></text>
+      <answer>
+        <text>LXVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>72</p>]]></text>
+      <answer>
+        <text>LXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>86</p>]]></text>
+      <answer>
+        <text>LXXXVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>95</p>]]></text>
+      <answer>
+        <text>XCV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>110</p>]]></text>
+      <answer>
+        <text>CX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>116</p>]]></text>
+      <answer>
+        <text>CXVI</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 402  -->
+  <question type="matching">
+    <name>
+      <text>NR - 402 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>1</p>]]></text>
+      <answer>
+        <text>I</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>17</p>]]></text>
+      <answer>
+        <text>XVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>30</p>]]></text>
+      <answer>
+        <text>XXX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>35</p>]]></text>
+      <answer>
+        <text>XXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>42</p>]]></text>
+      <answer>
+        <text>XLII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>52</p>]]></text>
+      <answer>
+        <text>LII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>65</p>]]></text>
+      <answer>
+        <text>LXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>72</p>]]></text>
+      <answer>
+        <text>LXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>82</p>]]></text>
+      <answer>
+        <text>LXXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>98</p>]]></text>
+      <answer>
+        <text>XCVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>103</p>]]></text>
+      <answer>
+        <text>CIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>120</p>]]></text>
+      <answer>
+        <text>CXX</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 403  -->
+  <question type="matching">
+    <name>
+      <text>NR - 403 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>4</p>]]></text>
+      <answer>
+        <text>IV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>18</p>]]></text>
+      <answer>
+        <text>XVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>24</p>]]></text>
+      <answer>
+        <text>XXIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>39</p>]]></text>
+      <answer>
+        <text>XXXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>45</p>]]></text>
+      <answer>
+        <text>XLV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>56</p>]]></text>
+      <answer>
+        <text>LVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>68</p>]]></text>
+      <answer>
+        <text>LXVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>79</p>]]></text>
+      <answer>
+        <text>LXXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>85</p>]]></text>
+      <answer>
+        <text>LXXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>98</p>]]></text>
+      <answer>
+        <text>XCVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>106</p>]]></text>
+      <answer>
+        <text>CVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>115</p>]]></text>
+      <answer>
+        <text>CXV</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 404  -->
+  <question type="matching">
+    <name>
+      <text>NR - 404 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>1</p>]]></text>
+      <answer>
+        <text>I</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>17</p>]]></text>
+      <answer>
+        <text>XVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>29</p>]]></text>
+      <answer>
+        <text>XXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>35</p>]]></text>
+      <answer>
+        <text>XXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>42</p>]]></text>
+      <answer>
+        <text>XLII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>60</p>]]></text>
+      <answer>
+        <text>LX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>61</p>]]></text>
+      <answer>
+        <text>LXI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>71</p>]]></text>
+      <answer>
+        <text>LXXI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>89</p>]]></text>
+      <answer>
+        <text>LXXXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>91</p>]]></text>
+      <answer>
+        <text>XCI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>102</p>]]></text>
+      <answer>
+        <text>CII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>119</p>]]></text>
+      <answer>
+        <text>CXIX</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 405  -->
+  <question type="matching">
+    <name>
+      <text>NR - 405 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>10</p>]]></text>
+      <answer>
+        <text>X</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>18</p>]]></text>
+      <answer>
+        <text>XVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>27</p>]]></text>
+      <answer>
+        <text>XXVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>37</p>]]></text>
+      <answer>
+        <text>XXXVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>49</p>]]></text>
+      <answer>
+        <text>XLIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>51</p>]]></text>
+      <answer>
+        <text>LI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>69</p>]]></text>
+      <answer>
+        <text>LXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>72</p>]]></text>
+      <answer>
+        <text>LXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>85</p>]]></text>
+      <answer>
+        <text>LXXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>99</p>]]></text>
+      <answer>
+        <text>XCIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>110</p>]]></text>
+      <answer>
+        <text>CX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>114</p>]]></text>
+      <answer>
+        <text>CXIV</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 406  -->
+  <question type="matching">
+    <name>
+      <text>NR - 406 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>9</p>]]></text>
+      <answer>
+        <text>IX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>19</p>]]></text>
+      <answer>
+        <text>XIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>24</p>]]></text>
+      <answer>
+        <text>XXIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>32</p>]]></text>
+      <answer>
+        <text>XXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>44</p>]]></text>
+      <answer>
+        <text>XLIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>52</p>]]></text>
+      <answer>
+        <text>LII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>67</p>]]></text>
+      <answer>
+        <text>LXVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>75</p>]]></text>
+      <answer>
+        <text>LXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>83</p>]]></text>
+      <answer>
+        <text>LXXXIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>95</p>]]></text>
+      <answer>
+        <text>XCV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>109</p>]]></text>
+      <answer>
+        <text>CIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>112</p>]]></text>
+      <answer>
+        <text>CXII</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 407  -->
+  <question type="matching">
+    <name>
+      <text>NR - 407 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>3</p>]]></text>
+      <answer>
+        <text>III</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>11</p>]]></text>
+      <answer>
+        <text>XI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>30</p>]]></text>
+      <answer>
+        <text>XXX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>35</p>]]></text>
+      <answer>
+        <text>XXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>42</p>]]></text>
+      <answer>
+        <text>XLII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>53</p>]]></text>
+      <answer>
+        <text>LIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>66</p>]]></text>
+      <answer>
+        <text>LXVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>74</p>]]></text>
+      <answer>
+        <text>LXXIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>89</p>]]></text>
+      <answer>
+        <text>LXXXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>96</p>]]></text>
+      <answer>
+        <text>XCVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>110</p>]]></text>
+      <answer>
+        <text>CX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>113</p>]]></text>
+      <answer>
+        <text>CXIII</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 408  -->
+  <question type="matching">
+    <name>
+      <text>NR - 408 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>9</p>]]></text>
+      <answer>
+        <text>IX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>12</p>]]></text>
+      <answer>
+        <text>XII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>27</p>]]></text>
+      <answer>
+        <text>XXVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>31</p>]]></text>
+      <answer>
+        <text>XXXI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>43</p>]]></text>
+      <answer>
+        <text>XLIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>54</p>]]></text>
+      <answer>
+        <text>LIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>61</p>]]></text>
+      <answer>
+        <text>LXI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>75</p>]]></text>
+      <answer>
+        <text>LXXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>82</p>]]></text>
+      <answer>
+        <text>LXXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>98</p>]]></text>
+      <answer>
+        <text>XCVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>108</p>]]></text>
+      <answer>
+        <text>CVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>112</p>]]></text>
+      <answer>
+        <text>CXII</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 409  -->
+  <question type="matching">
+    <name>
+      <text>NR - 409 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>9</p>]]></text>
+      <answer>
+        <text>IX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>16</p>]]></text>
+      <answer>
+        <text>XVI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>25</p>]]></text>
+      <answer>
+        <text>XXV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>32</p>]]></text>
+      <answer>
+        <text>XXXII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>44</p>]]></text>
+      <answer>
+        <text>XLIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>58</p>]]></text>
+      <answer>
+        <text>LVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>70</p>]]></text>
+      <answer>
+        <text>LXX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>74</p>]]></text>
+      <answer>
+        <text>LXXIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>88</p>]]></text>
+      <answer>
+        <text>LXXXVIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>97</p>]]></text>
+      <answer>
+        <text>XCVII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>101</p>]]></text>
+      <answer>
+        <text>CI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>112</p>]]></text>
+      <answer>
+        <text>CXII</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 410  -->
+  <question type="matching">
+    <name>
+      <text>NR - 410 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Empareja:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>3</p>]]></text>
+      <answer>
+        <text>III</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>15</p>]]></text>
+      <answer>
+        <text>XV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>24</p>]]></text>
+      <answer>
+        <text>XXIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>40</p>]]></text>
+      <answer>
+        <text>XL</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>44</p>]]></text>
+      <answer>
+        <text>XLIV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>59</p>]]></text>
+      <answer>
+        <text>LIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>69</p>]]></text>
+      <answer>
+        <text>LXIX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>71</p>]]></text>
+      <answer>
+        <text>LXXI</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>83</p>]]></text>
+      <answer>
+        <text>LXXXIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>93</p>]]></text>
+      <answer>
+        <text>XCIII</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>110</p>]]></text>
+      <answer>
+        <text>CX</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>115</p>]]></text>
+      <answer>
+        <text>CXV</text>
+      </answer>
+    </subquestion>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/05_RC</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 501  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 501 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 40.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>XL</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>xl</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 502  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 502 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 73.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>LXXIII</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>lxxiii</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 503  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 503 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 51.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>LI</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>li</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 504  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 504 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 65.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>LXV</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>lxv</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 505  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 505 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 91.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>XCI</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>xci</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 506  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 506 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 62.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>LXII</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>lxii</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 507  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 507 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 56.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>LVI</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>lvi</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 508  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 508 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 11.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>XI</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>xi</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 509  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 509 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 13.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>XIII</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>xiii</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 510  -->
+  <question type="shortanswer">
+    <name>
+      <text>NR - 510 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe el Número Romano de 96.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>XCVI</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>xcvi</text>
+      <feedback format="html">
+      <text><![CDATA[<p>Muy bien.</p>]]></text>
+      </feedback>
+    </answer>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/06_PP</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 601  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 601 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 13 es [[6]]. El Siguiente Número Romano XXVIII es [[3]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>4</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>13</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>28</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>39</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>IV</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXVIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXIX</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 602  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 602 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 34 es [[8]]. El Siguiente Número Romano XXXIV es [[4]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>2</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>19</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>29</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>34</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>II</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XIX</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXIX</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXIV</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 603  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 603 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 2 es [[5]]. El Siguiente Número Romano XXVIII es [[3]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>2</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>13</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>28</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>38</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>II</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXVIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXVIII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 604  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 604 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 3 es [[5]]. El Siguiente Número Romano XIX es [[2]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>3</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>19</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>27</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>37</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>III</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XIX</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXVII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXVII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 605  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 605 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 28 es [[7]]. El Siguiente Número Romano XXVIII es [[3]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>10</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>15</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>28</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>33</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>X</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XV</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXVIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXIII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 606  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 606 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 18 es [[6]]. El Siguiente Número Romano XVIII es [[2]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>2</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>18</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>25</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>38</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>II</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XVIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXV</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXVIII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 607  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 607 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 3 es [[5]]. El Siguiente Número Romano XXI es [[3]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>3</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>14</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>21</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>33</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>III</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XIV</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXI</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXIII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 608  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 608 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 1 es [[5]]. El Siguiente Número Romano XVIII es [[2]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>1</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>18</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>23</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>34</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>I</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XVIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXIII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXIV</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 609  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 609 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 35 es [[8]]. El Siguiente Número Romano XXXV es [[4]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>7</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>11</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>29</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>35</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>VII</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XI</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXIX</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXV</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 610  -->
+  <question type="gapselect">
+    <name>
+      <text>NR - 610 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 2 es [[5]]. El Siguiente Número Romano II es [[1]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>2</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>11</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>24</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>38</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>II</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XI</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXIV</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>XXXVIII</text>
+      <group>2</group>
+    </selectoption>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/07_EN</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 701  -->
+  <question type="essay">
+    <name>
+      <text>NR - 701 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XV.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 702  -->
+  <question type="essay">
+    <name>
+      <text>NR - 702 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XVI.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 703  -->
+  <question type="essay">
+    <name>
+      <text>NR - 703 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XIX.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 704  -->
+  <question type="essay">
+    <name>
+      <text>NR - 704 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XX.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 705  -->
+  <question type="essay">
+    <name>
+      <text>NR - 705 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XVI.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 706  -->
+  <question type="essay">
+    <name>
+      <text>NR - 706 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XV.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 707  -->
+  <question type="essay">
+    <name>
+      <text>NR - 707 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XV.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 708  -->
+  <question type="essay">
+    <name>
+      <text>NR - 708 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XX.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 709  -->
+  <question type="essay">
+    <name>
+      <text>NR - 709 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XV.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 710  -->
+  <question type="essay">
+    <name>
+      <text>NR - 710 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p style="text-align: center;">Escribe todo lo que sepas del Siglo XVIII.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>2</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[Se valora la brevedad y síntesis.]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[Inicios del siglo. Mediados del siglo. Finales del Siglo.]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/NUM ROMANOS/08_CL</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p>, </p>]]></text>
+    </info>
+  </question>
+<!-- question: 801  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 801 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 802  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 802 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 803  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 803 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 804  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 804 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 805  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 805 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 806  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 806 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 807  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 807 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 808  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 808 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 809  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 809 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+<!-- question: 810  -->
+  <question type="cloze">
+    <name>
+      <text>NR - 810 Numeros Romanos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".clozeequalwidth10 .form-control.mb-1").attr('size',10);
+    });
+</script><ol class="clozeequalwidth10"><p style="text-align: center;">Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}</ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>0</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+</question>
+</quiz>
