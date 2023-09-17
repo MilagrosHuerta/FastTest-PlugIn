@@ -1,0 +1,618 @@
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Opción Múltiple 1R  - NUM ROMANOS -  - NR
+
+1) El Numero Romano de 94 es:
+a) XCIV
+b) CXXIV
+c) XCIX
+d) CLIV
+
+2) El Numero Romano de 58 es:
+a) LVIII
+b) LXXVIII
+c) LXIII
+d) CXVIII
+
+3) El Numero Romano de 27 es:
+a) XXVII
+b) LVII
+c) XXXI
+d) LXXXVII
+
+4) El Numero Romano de 61 es:
+a) LXI
+b) LXXI
+c) LXVI
+d) CXXXI
+
+5) El Numero Romano de 80 es:
+a) LXXX
+b) XC
+c) LXXXV
+d) CL
+
+6) El Numero Romano de 48 es:
+a) XLVIII
+b) LXXVIII
+c) LIII
+d) CVIII
+
+7) El Numero Romano de 53 es:
+a) LIII
+b) LXIII
+c) LVII
+d) CXXIII
+
+8) El Numero Romano de 54 es:
+a) LIV
+b) LXXIV
+c) LIX
+d) CXXIV
+
+9) El Numero Romano de 52 es:
+a) LII
+b) LXII
+c) LVII
+d) CXII
+
+10) El Numero Romano de 51 es:
+a) LI
+b) LXXI
+c) LV
+d) CXXI
+
+11) El Numero Romano de 213 es:
+a) CCXIII
+b) CCXXXIII
+c) CCXVII
+d) CCLXXIII
+
+12) El Numero Romano de 703 es:
+a) DCCIII
+b) DCCXXIII
+c) DCCVIII
+d) DCCLXXIII
+
+13) El Numero Romano de 972 es:
+a) CMLXXII
+b) MII
+c) CMLXXVII
+d) MXXXII
+
+14) El Numero Romano de 332 es:
+a) CCCXXXII
+b) CCCXLII
+c) CCCXXXVII
+d) CDXII
+
+15) El Numero Romano de 688 es:
+a) DCLXXXVIII
+b) DCCXVIII
+c) DCXCII
+d) DCCLXVIII
+
+16) El Numero Romano de 582 es:
+a) DLXXXII
+b) DCII
+c) DLXXXVI
+d) DCLII
+
+17) El Numero Romano de 856 es:
+a) DCCCLVI
+b) DCCCLXXVI
+c) DCCCLXI
+d) CMXVI
+
+18) El Numero Romano de 316 es:
+a) CCCXVI
+b) CCCXLVI
+c) CCCXXI
+d) CCCLXXVI
+
+19) El Numero Romano de 891 es:
+a) DCCCXCI
+b) CMI
+c) DCCCXCVI
+d) CMLI
+
+20) El Numero Romano de 849 es:
+a) DCCCXLIX
+b) DCCCLXXIX
+c) DCCCLIV
+d) CMXIX
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Opción Múltiple +R  - NUM ROMANOS -  - NR
+
+1) Indica los Números Romanos mayores que 73.
+a) LXXVII
+b) LXXXIV
+c) LXVIII
+d) LXIV
+
+2) Indica los Números Romanos mayores que 13.
+a) XVIII
+b) XXVI
+c) XII
+d) VI
+
+3) Indica los Números Romanos mayores que 69.
+a) LXX
+b) LXXVIII
+c) LXVII
+d) LXI
+
+4) Indica los Números Romanos mayores que 36.
+a) XXXVII
+b) XLV
+c) XXXIV
+d) XXX
+
+5) Indica los Números Romanos mayores que 57.
+a) LX
+b) LXVII
+c) LV
+d) LI
+
+6) Indica los Números Romanos mayores que 100.
+a) CI
+b) CXI
+c) XCVII
+d) XCIII
+
+7) Indica los Números Romanos mayores que 28.
+a) XXXII
+b) XXXVII
+c) XXVII
+d) XXII
+
+8) Indica los Números Romanos mayores que 36.
+a) XXXVIII
+b) XLV
+c) XXXII
+d) XXVIII
+
+9) Indica los Números Romanos mayores que 13.
+a) XIV
+b) XXIV
+c) VIII
+d) VII
+
+10) Indica los Números Romanos mayores que 65.
+a) LXIX
+b) LXXVI
+c) LXIII
+d) LVIII
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Verdadero/Falso - NUM ROMANOS -  - NR
+
+1) El Número Romano de 24 es: XXIV
+a) VERDADERO
+b) FALSO
+
+2) El Número Romano de 22 es: XXII
+a) VERDADERO
+b) FALSO
+
+3) El Número Romano de 1 es: II
+a) FALSO
+b) VERDADERO
+
+4) El Número Romano de 83 es: XCII
+a) FALSO
+b) VERDADERO
+
+5) El Número Romano de 77 es: LXXXII
+a) FALSO
+b) VERDADERO
+
+6) El Número Romano de 84 es: LXXXIV
+a) VERDADERO
+b) FALSO
+
+7) El Número Romano de 32 es: XXXII
+a) VERDADERO
+b) FALSO
+
+8) El Número Romano de 30 es: XXXVII
+a) FALSO
+b) VERDADERO
+
+9) El Número Romano de 75 es: LXXIX
+a) FALSO
+b) VERDADERO
+
+10) El Número Romano de 83 es: LXXXIII
+a) VERDADERO
+b) FALSO
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Emparejar - NUM ROMANOS -  - NR
+
+1) Empareja:
+ - 2 <==> II
+ - 11 <==> XI
+ - 29 <==> XXIX
+ - 38 <==> XXXVIII
+ - 45 <==> XLV
+ - 58 <==> LVIII
+ - 66 <==> LXVI
+ - 72 <==> LXXII
+ - 86 <==> LXXXVI
+ - 95 <==> XCV
+ - 110 <==> CX
+ - 116 <==> CXVI
+
+2) Empareja:
+ - 1 <==> I
+ - 17 <==> XVII
+ - 30 <==> XXX
+ - 35 <==> XXXV
+ - 42 <==> XLII
+ - 52 <==> LII
+ - 65 <==> LXV
+ - 72 <==> LXXII
+ - 82 <==> LXXXII
+ - 98 <==> XCVIII
+ - 103 <==> CIII
+ - 120 <==> CXX
+
+3) Empareja:
+ - 4 <==> IV
+ - 18 <==> XVIII
+ - 24 <==> XXIV
+ - 39 <==> XXXIX
+ - 45 <==> XLV
+ - 56 <==> LVI
+ - 68 <==> LXVIII
+ - 79 <==> LXXIX
+ - 85 <==> LXXXV
+ - 98 <==> XCVIII
+ - 106 <==> CVI
+ - 115 <==> CXV
+
+4) Empareja:
+ - 1 <==> I
+ - 17 <==> XVII
+ - 29 <==> XXIX
+ - 35 <==> XXXV
+ - 42 <==> XLII
+ - 60 <==> LX
+ - 61 <==> LXI
+ - 71 <==> LXXI
+ - 89 <==> LXXXIX
+ - 91 <==> XCI
+ - 102 <==> CII
+ - 119 <==> CXIX
+
+5) Empareja:
+ - 10 <==> X
+ - 18 <==> XVIII
+ - 27 <==> XXVII
+ - 37 <==> XXXVII
+ - 49 <==> XLIX
+ - 51 <==> LI
+ - 69 <==> LXIX
+ - 72 <==> LXXII
+ - 85 <==> LXXXV
+ - 99 <==> XCIX
+ - 110 <==> CX
+ - 114 <==> CXIV
+
+6) Empareja:
+ - 9 <==> IX
+ - 19 <==> XIX
+ - 24 <==> XXIV
+ - 32 <==> XXXII
+ - 44 <==> XLIV
+ - 52 <==> LII
+ - 67 <==> LXVII
+ - 75 <==> LXXV
+ - 83 <==> LXXXIII
+ - 95 <==> XCV
+ - 109 <==> CIX
+ - 112 <==> CXII
+
+7) Empareja:
+ - 3 <==> III
+ - 11 <==> XI
+ - 30 <==> XXX
+ - 35 <==> XXXV
+ - 42 <==> XLII
+ - 53 <==> LIII
+ - 66 <==> LXVI
+ - 74 <==> LXXIV
+ - 89 <==> LXXXIX
+ - 96 <==> XCVI
+ - 110 <==> CX
+ - 113 <==> CXIII
+
+8) Empareja:
+ - 9 <==> IX
+ - 12 <==> XII
+ - 27 <==> XXVII
+ - 31 <==> XXXI
+ - 43 <==> XLIII
+ - 54 <==> LIV
+ - 61 <==> LXI
+ - 75 <==> LXXV
+ - 82 <==> LXXXII
+ - 98 <==> XCVIII
+ - 108 <==> CVIII
+ - 112 <==> CXII
+
+9) Empareja:
+ - 9 <==> IX
+ - 16 <==> XVI
+ - 25 <==> XXV
+ - 32 <==> XXXII
+ - 44 <==> XLIV
+ - 58 <==> LVIII
+ - 70 <==> LXX
+ - 74 <==> LXXIV
+ - 88 <==> LXXXVIII
+ - 97 <==> XCVII
+ - 101 <==> CI
+ - 112 <==> CXII
+
+10) Empareja:
+ - 3 <==> III
+ - 15 <==> XV
+ - 24 <==> XXIV
+ - 40 <==> XL
+ - 44 <==> XLIV
+ - 59 <==> LIX
+ - 69 <==> LXIX
+ - 71 <==> LXXI
+ - 83 <==> LXXXIII
+ - 93 <==> XCIII
+ - 110 <==> CX
+ - 115 <==> CXV
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Respuesta Corta - NUM ROMANOS -  - NR
+
+1) Escribe el Número Romano de 40.
+XL xl      
+
+2) Escribe el Número Romano de 73.
+LXXIII lxxiii      
+
+3) Escribe el Número Romano de 51.
+LI li      
+
+4) Escribe el Número Romano de 65.
+LXV lxv      
+
+5) Escribe el Número Romano de 91.
+XCI xci      
+
+6) Escribe el Número Romano de 62.
+LXII lxii      
+
+7) Escribe el Número Romano de 56.
+LVI lvi      
+
+8) Escribe el Número Romano de 11.
+XI xi      
+
+9) Escribe el Número Romano de 13.
+XIII xiii      
+
+10) Escribe el Número Romano de 96.
+XCVI xcvi      
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Palabra Perdida - NUM ROMANOS -  - NR
+
+1) El Número Romano de 13 es [[6]]. El Siguiente Número Romano XXVIII es [[3]].
+ - 1 <==> 4
+ - 1 <==> 13
+ - 1 <==> 28
+ - 1 <==> 39
+ - 2 <==> IV
+ - 2 <==> XIII
+ - 2 <==> XXVIII
+ - 2 <==> XXXIX
+
+2) El Número Romano de 34 es [[8]]. El Siguiente Número Romano XXXIV es [[4]].
+ - 1 <==> 2
+ - 1 <==> 19
+ - 1 <==> 29
+ - 1 <==> 34
+ - 2 <==> II
+ - 2 <==> XIX
+ - 2 <==> XXIX
+ - 2 <==> XXXIV
+
+3) El Número Romano de 2 es [[5]]. El Siguiente Número Romano XXVIII es [[3]].
+ - 1 <==> 2
+ - 1 <==> 13
+ - 1 <==> 28
+ - 1 <==> 38
+ - 2 <==> II
+ - 2 <==> XIII
+ - 2 <==> XXVIII
+ - 2 <==> XXXVIII
+
+4) El Número Romano de 3 es [[5]]. El Siguiente Número Romano XIX es [[2]].
+ - 1 <==> 3
+ - 1 <==> 19
+ - 1 <==> 27
+ - 1 <==> 37
+ - 2 <==> III
+ - 2 <==> XIX
+ - 2 <==> XXVII
+ - 2 <==> XXXVII
+
+5) El Número Romano de 28 es [[7]]. El Siguiente Número Romano XXVIII es [[3]].
+ - 1 <==> 10
+ - 1 <==> 15
+ - 1 <==> 28
+ - 1 <==> 33
+ - 2 <==> X
+ - 2 <==> XV
+ - 2 <==> XXVIII
+ - 2 <==> XXXIII
+
+6) El Número Romano de 18 es [[6]]. El Siguiente Número Romano XVIII es [[2]].
+ - 1 <==> 2
+ - 1 <==> 18
+ - 1 <==> 25
+ - 1 <==> 38
+ - 2 <==> II
+ - 2 <==> XVIII
+ - 2 <==> XXV
+ - 2 <==> XXXVIII
+
+7) El Número Romano de 3 es [[5]]. El Siguiente Número Romano XXI es [[3]].
+ - 1 <==> 3
+ - 1 <==> 14
+ - 1 <==> 21
+ - 1 <==> 33
+ - 2 <==> III
+ - 2 <==> XIV
+ - 2 <==> XXI
+ - 2 <==> XXXIII
+
+8) El Número Romano de 1 es [[5]]. El Siguiente Número Romano XVIII es [[2]].
+ - 1 <==> 1
+ - 1 <==> 18
+ - 1 <==> 23
+ - 1 <==> 34
+ - 2 <==> I
+ - 2 <==> XVIII
+ - 2 <==> XXIII
+ - 2 <==> XXXIV
+
+9) El Número Romano de 35 es [[8]]. El Siguiente Número Romano XXXV es [[4]].
+ - 1 <==> 7
+ - 1 <==> 11
+ - 1 <==> 29
+ - 1 <==> 35
+ - 2 <==> VII
+ - 2 <==> XI
+ - 2 <==> XXIX
+ - 2 <==> XXXV
+
+10) El Número Romano de 2 es [[5]]. El Siguiente Número Romano II es [[1]].
+ - 1 <==> 2
+ - 1 <==> 11
+ - 1 <==> 24
+ - 1 <==> 38
+ - 2 <==> II
+ - 2 <==> XI
+ - 2 <==> XXIV
+ - 2 <==> XXXVIII
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Ensayo - NUM ROMANOS -  - NR
+
+1) Escribe todo lo que sepas del Siglo XV.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+2) Escribe todo lo que sepas del Siglo XVI.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+3) Escribe todo lo que sepas del Siglo XIX.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+4) Escribe todo lo que sepas del Siglo XX.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+5) Escribe todo lo que sepas del Siglo XVI.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+6) Escribe todo lo que sepas del Siglo XV.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+7) Escribe todo lo que sepas del Siglo XV.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+8) Escribe todo lo que sepas del Siglo XX.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+9) Escribe todo lo que sepas del Siglo XV.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+10) Escribe todo lo que sepas del Siglo XVIII.
+Editor HTML Requerir al estudiante que introduzca texto 10 2 Los archivos adjuntos son opcionales Inicios del siglo. Mediados del siglo. Finales del Siglo. Se valora la brevedad y síntesis. 
+
+
+
+Preguntas y respuestas en orden.
+
+PREGUNTAS TIPO: Cloze - NUM ROMANOS -  - NR
+
+1) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+2) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+3) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+4) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+5) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+6) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+7) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+8) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+9) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+10) Trabajando con Números Romanos:<br><br>
+1. Selecciona el Número Romano de 9 {1:MC:%100%IX#Muy Bien~%-50%XIV#Debes estudiar más~%-50%XV#Debes estudiar más~%-50%XXXI#Debes estudiar más}<br><br>
+2. Escribe el Número Romano de 31 {1:SA:%100%XXXI#Muy bien~%50%xxxi#Ten cuidado y escribe en Mayúsculas}<br><br>
+3. Escribe el número de XV{1:NUMERICAL:%100%15:0#Muy bien~%-50%14:0#Debes estudiar mas}
+
+
+
