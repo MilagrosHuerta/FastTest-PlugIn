@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding= "UTF-8"?>
+<quiz>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/01_OM]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 101  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[PB - 101 Pregunta 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>El caballo blanco de Santiago es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Blanco]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-10" format="html">
+      <text><![CDATA[Negro]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-10" format="html">
+      <text><![CDATA[Gris]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-10" format="html">
+      <text><![CDATA[Marrón]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-10" format="html">
+      <text><![CDATA[Beige]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-10" format="html">
+      <text><![CDATA[Morado]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/02_O2]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 201  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[PB - 201 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>Los Números Romano mayores de 8 son:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[IX]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="50" format="html">
+      <text><![CDATA[XII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[V]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[VI]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[VII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[IV]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 202  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[PB - 202 PREGUNTA 1]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>Los Números Romano mayores de 16 son:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[XVII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="50" format="html">
+      <text><![CDATA[XX]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XIII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XIV]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XV]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 203  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[PB - 203 PREGUNTA 2]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><!--Copyright 2022 by Dominique Bauer & Rick Whitehead-.-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>$(document).ready(function() {$("div.que.multichoice").each(function() {if ($(this).find("#maximumselections").length) {let maxselect = parseInt($(this).find("#maximumselections").text());$(this).find("#numberselections").text(maxselect);let $total = 1;$(this).find("div.answer input[type=checkbox]").each(function() {if($(this).is(":checked")){ $total++; }$(this).on('click', function(event) {if (!$(this).is(":checked")) {$total = $total - 1;$("div.validationerror").remove();} else if ($total <= maxselect) {$total = $total + 1;$("div.validationerror").remove();} else {event.preventDefault();event.stopPropagation();if (!$("div.validationerror").length) {$("div.answer").after("<div class='validationerror'>Nº max. respuestas: " + maxselect + ".</div>");}}});});}});});</script><span id="maximumselections" style="display:none;">2</span><p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>Los Números Romano mayores de 15 son:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[XVI]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="50" format="html">
+      <text><![CDATA[XIX]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XIII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XIV]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[XI]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 204  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[PB - 204 PREGUNTA 3]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><!--Copyright 2022 by Dominique Bauer & Rick Whitehead-.-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>$(document).ready(function() {$("div.que.multichoice").each(function() {if ($(this).find("#maximumselections").length) {let maxselect = parseInt($(this).find("#maximumselections").text());$(this).find("#numberselections").text(maxselect);let $total = 1;$(this).find("div.answer input[type=checkbox]").each(function() {if($(this).is(":checked")){ $total++; }$(this).on('click', function(event) {if (!$(this).is(":checked")) {$total = $total - 1;$("div.validationerror").remove();} else if ($total <= maxselect) {$total = $total + 1;$("div.validationerror").remove();} else {event.preventDefault();event.stopPropagation();if (!$("div.validationerror").length) {$("div.answer").after("<div class='validationerror'>Nº max. respuestas: " + maxselect + ".</div>");}}});});}});});</script><span id="maximumselections" style="display:none;">2</span><p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>Los Números Romano mayores de 9 son:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[X]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="50" format="html">
+      <text><![CDATA[XIII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[VI]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[VII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[VIII]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="-25" format="html">
+      <text><![CDATA[V]]></text>
+      <feedback format="html">
+             <text><![CDATA[<p>Debes estudiar más</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/03_VF]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 301  -->
+  <question type="truefalse">
+    <name>
+      <text><![CDATA[PB - 301 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>El caballo blanco de Santiago es Marrón.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+          <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+          <text><![CDATA[<p>Debes leer mejor la pregunta</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/04_EM]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 401  -->
+  <question type="matching">
+    <name>
+      <text><![CDATA[PB - 401 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>EMPAREJA:</p>]]></text>
+    </questiontext>
+
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+     <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+     </correctfeedback>
+     <partiallycorrectfeedback format="html">
+       <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+     </partiallycorrectfeedback>
+     <incorrectfeedback format="html">
+       <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+     </incorrectfeedback>
+     <shownumcorrect/>
+
+     <subquestion format="html">
+       <text><![CDATA[<p>MESA</p>]]></text>
+       <answer>
+         <text>SILLA</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>NEVERA</p>]]></text>
+       <answer>
+         <text>LAVADORA</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>NIÑO</p>]]></text>
+       <answer>
+         <text>NIÑA</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>PADRE</p>]]></text>
+       <answer>
+         <text>MADRE</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>PERRO</p>]]></text>
+       <answer>
+         <text>GATO</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>PAÍS</p>]]></text>
+       <answer>
+         <text>CAPITAL</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>VERANO</p>]]></text>
+       <answer>
+         <text>INVIERNO</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>AZUL</p>]]></text>
+       <answer>
+         <text>ROJO</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>SUMA</p>]]></text>
+       <answer>
+         <text>RESTA</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>PLAYA</p>]]></text>
+       <answer>
+         <text>PISCINA</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>TREN</p>]]></text>
+       <answer>
+         <text>AVIÓN</text>
+       </answer>
+     </subquestion>
+     <subquestion format="html">
+       <text><![CDATA[<p>CASA</p>]]></text>
+       <answer>
+         <text>PISO</text>
+       </answer>
+     </subquestion>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/05_RC]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 501  -->
+  <question type="shortanswer">
+    <name>
+      <text><![CDATA[PB - 501 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>La capital de España es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Madrid</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="90" format="moodle_auto_format">
+      <text>MADRID</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Muy bien, pero escribe mejor</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="50" format="moodle_auto_format">
+      <text>madrid</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Muy bien, pero cuidado con la ortografía</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="40" format="moodle_auto_format">
+      <text>MaDriD</text>
+      <feedback format="html">
+        <text><![CDATA[<p>No sé qué forma de escribir es esa…</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="30" format="moodle_auto_format">
+      <text>mADRID</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cuidado con el teclado…</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="30" format="moodle_auto_format">
+      <text>maDRID</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cuidado con el teclado…</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="30" format="moodle_auto_format">
+      <text>MADrid</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cuidado con el teclado…</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="30" format="moodle_auto_format">
+      <text>maDRid</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cuidado con el teclado…</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 502  -->
+  <question type="shortanswer">
+    <name>
+      <text><![CDATA[PB - 502 PREGUNTA 1]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>La capital de España es:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>1</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Madrid</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Muy bien</p>]]></text>
+      </feedback>
+    </answer>    <answer fraction="90" format="moodle_auto_format">
+      <text>MADRID</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Muy bien, pero escribe mejor</p>]]></text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0 -->
+  <question type="randomsamatch">
+    <name>
+      <text><![CDATA[901 PB - PREGUNTA 2]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Selecciona las palabras correspondientes:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <shownumcorrect/>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/06_PP]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 601  -->
+  <question type="gapselect">
+    <name>
+      <text><![CDATA[PB - 601 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>La capital de España es [[1]]. La capital de Francia es [[3]]. La capital de Portugal es [[2]]. La Capital de Andalucía es [[4]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>Madrid</text>
+      <group>1</group>
+    </selectoption>    <selectoption>
+      <text>Lisboa</text>
+      <group>1</group>
+    </selectoption>    <selectoption>
+      <text>París</text>
+      <group>1</group>
+    </selectoption>    <selectoption>
+      <text>Sevilla</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Jaén</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Córdoba</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Huelva</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Cádiz</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Granada</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Almería</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Málaga</text>
+      <group>2</group>
+    </selectoption>    <selectoption>
+      <text>Roma</text>
+      <group>1</group>
+    </selectoption>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/06_PP]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 601  -->
+  <question type="ddwtos">
+    <name>
+      <text><![CDATA[PB - 601 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>La capital de España es [[1]]. La capital de Francia es [[3]]. La capital de Portugal es [[2]]. La Capital de Andalucía es [[4]].</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>    <correctfeedback format="html">
+      <text><![CDATA[<p>Muy bien, sigue así.</p>]]></text>
+    </correctfeedback>    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Tu respuesta no es del todo correcta.</p>]]></text>
+    </partiallycorrectfeedback>    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Debes estudiar más.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Madrid</text>
+      <group>1</group>
+    </dragbox>    <dragbox>
+      <text>Lisboa</text>
+      <group>1</group>
+    </dragbox>    <dragbox>
+      <text>París</text>
+      <group>1</group>
+    </dragbox>    <dragbox>
+      <text>Sevilla</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Jaén</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Córdoba</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Huelva</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Cádiz</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Granada</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Almería</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Málaga</text>
+      <group>2</group>
+    </dragbox>    <dragbox>
+      <text>Roma</text>
+      <group>1</group>
+    </dragbox>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/07_EN]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 701  -->
+  <question type="essay">
+    <name>
+      <text><![CDATA[PB - 701 PREGUNTA 0]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>ESCRIBE LO QUE QUIERAS</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>3</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[NOTA]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[PLANTILLA]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 702  -->
+  <question type="essay">
+    <name>
+      <text><![CDATA[PB - 702 PREGUNTA 1]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>ESCRIBE LO QUE QUIERAS</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text>
+    </generalfeedback>    <defaultgrade>1</defaultgrade>
+    <penalty>0.333333333333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[NOTA]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[PLANTILLA]]></text>
+    </responsetemplate>
+</question>
+<!-- question: 0  -->  <question type="category"> <category> <text><![CDATA[$course$/top/PRUEBA V8.5/08_CL]]></text> </category> <info format="html"> <text><![CDATA[]]></text> </info> </question>
+<!-- question: 801  --> <question type="cloze"> 
+ <name><text><![CDATA[PB - 801]]></text> </name> <questiontext format="html"> <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script><script>$(document).ready(function(){var mcxlist = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];mcxlist.forEach(formulas_mcx);function formulas_mcx(z) {$("div.mcx_dropdown:eq("+z+")").addClass("mcx_dropdown"+z.toString());$("div.answer:eq("+z+")").addClass("mcx_dropdown_panel"+z.toString());$("<div class='mcx_dropbtn"+z+"'>Select... <span style='vertical-align:3px;'>&varr;</span></div>").insertBefore("div.mcx_dropdown_panel"+z.toString());$(".mcx_dropdown"+z).css({"position":"relative", "display":"inline-block", "text-align":"center", "background-color":"#FFF", "border":"1px solid #8f959e", "padding":"5px"});$(".mcx_dropbtn"+z).css({"background-color":"#FFF", "text-align":"center", "cursor":"default", "display":"inline-block", "vertical-align":"middle", "padding":"3px 10px 4px" });$(".mcx_dropdown"+z+" i").css("display","inline-block");$(".mcx_dropdown"+z+" i").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropdown"+z+" .specificfeedback").css("display","inline-block");$(".mcx_dropdown"+z+" .specificfeedback").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropbtn"+z).css("width","auto");$(".mcx_dropdown_panel"+z).css({"display":"none", "position":"absolute", "min-width":"160px", "z-index":"1", "background-color":"#FFF", "border":"1px solid #CCC", "padding":"5px 10px 5px", "box-shadow":"0px 8px 16px 0px rgba(0,0,0,0.2)" });$(".mcx_dropdown_panel"+z+" div").css({"text-align":"center", "margin":"15px 0px"});$(".mcx_dropdown_panel"+z+" div").hover(function(){$(this).css("background-color","#bcddf9");}, function(){$(this).css("background-color","#FFF");});$(".mcx_dropbtn"+z).click(function(){$(".mcx_dropdown_panel"+z).toggle();$(".mcx_dropdown_panel"+z).css("text-align","center");});$(".answer:eq("+z+") input[type=radio]").css("display","none");$(".answer").eq(z).change(function(){$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();});if (window.location.href.indexOf("review") > -1) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();$(".mcx_dropdown"+z).css("background-color","#e8eef0");$(".mcx_dropbtn"+z).css("background-color","#e8eef0");$(".mcx_dropdown"+z).click(function(){$(".mcx_dropdown_panel"+z).hide();});}if ( $(".answer:eq("+z+") input[type=radio]").is(":checked") ) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();}}});</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> <script>$(document).ready(function() {$("#DCanswerboxes*").hide();$("#DCequation").hide(); setTimeout(function() {$("#DCanswerboxes input").css({"height": "24px","border-radius": "5px","padding": "0","text-align": "center","font-size": "15px","color": "#000",});$("#DCanswerboxes3 input").css({ "width": "30px",   });$("#DCanswerboxes4 input").css({ "width": "40px",   });$(".menclose:contains(|)").each(function(i) {$(this).find("*").remove();$(".subquestion:eq(" + i + ")").prependTo(this);}); $(".subquestion").each(function() {$a = $(this).find("a");$input = $(this).find("input");$i = $(this).find("i");if ($(this).has("i.text-danger").length) {$input.attr("readonly", true);$input.css({"background-color": "#FBB"}); $input.click(function() {$(this).blur();});$input.hover(function() {$(this).css("cursor", "default");});} if ($(this).has("i.text-success").length) {$input.attr("readonly", true);$input.css({"background-color": "#AFA"});$input.click(function() {$(this).blur();}); $input.hover(function() {$(this).css("cursor", "default");});}$input.appendTo($a);$i.css({"visibility": "hidden"}); $("button").focus(function() {$("button").css({"box-shadow": "none"});});}); $("#DCequation button").css({"position": "relative","left": "-20px","margin-right": "-25px"}); $("#DCequation *").on('dblclick', function(e) {e.preventDefault();e.stopPropagation();return;});$("#DCanswerboxes*").show();$("#DCequation").show();$("#DCspinner").hide();}, 1000);setTimeout(function() {$("#DChint").show();}, 2500);});</script> <p id="DCspinner" style="text-align: center; margin: 30px 0px 40px;"><i class="fa fa-spinner fa-spin" style="color: #ccc; font-size: 18px;"></i></p>
+RELLENA LOS HUECOS DE LAS SIGUIENTES ECUACIONES:<br>
+ \(\frac{\fbox{|____}}{b}\begin{pmatrix}
+A & \fbox{|___} & C \\
+D & E & \fbox{|____} \\
+\fbox{|____} & H & I \\
+\end{pmatrix}\)
+<div id="DCanswerboxes">
+<div id="DCanswerboxes4">{1:SA:~%100%UNO#Muy bien}</div>
+<div id="DCanswerboxes3">{1:SA:~%100%DOS#Muy bien}</div>
+<div id="DCanswerboxes4">{1:NM:~%100%35:0#Muy bien}</div>
+<div id="DCanswerboxes4">{1:MCS:~%100%35#Muy bien~%0%30#~%0%25#}</div>
+
+ ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text></generalfeedback><defaultgrade>1</defaultgrade><penalty>0.333333333333333</penalty><hidden>0</hidden><idnumber></idnumber>
+</question>
+<!-- question: 802  --> <question type="cloze"> 
+ <name><text><![CDATA[PB - 802 PREGUNTA 1]]></text> </name> <questiontext format="html"> <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script><script>$(document).ready(function(){var mcxlist = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];mcxlist.forEach(formulas_mcx);function formulas_mcx(z) {$("div.mcx_dropdown:eq("+z+")").addClass("mcx_dropdown"+z.toString());$("div.answer:eq("+z+")").addClass("mcx_dropdown_panel"+z.toString());$("<div class='mcx_dropbtn"+z+"'>Select... <span style='vertical-align:3px;'>&varr;</span></div>").insertBefore("div.mcx_dropdown_panel"+z.toString());$(".mcx_dropdown"+z).css({"position":"relative", "display":"inline-block", "text-align":"center", "background-color":"#FFF", "border":"1px solid #8f959e", "padding":"5px"});$(".mcx_dropbtn"+z).css({"background-color":"#FFF", "text-align":"center", "cursor":"default", "display":"inline-block", "vertical-align":"middle", "padding":"3px 10px 4px" });$(".mcx_dropdown"+z+" i").css("display","inline-block");$(".mcx_dropdown"+z+" i").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropdown"+z+" .specificfeedback").css("display","inline-block");$(".mcx_dropdown"+z+" .specificfeedback").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropbtn"+z).css("width","auto");$(".mcx_dropdown_panel"+z).css({"display":"none", "position":"absolute", "min-width":"160px", "z-index":"1", "background-color":"#FFF", "border":"1px solid #CCC", "padding":"5px 10px 5px", "box-shadow":"0px 8px 16px 0px rgba(0,0,0,0.2)" });$(".mcx_dropdown_panel"+z+" div").css({"text-align":"center", "margin":"15px 0px"});$(".mcx_dropdown_panel"+z+" div").hover(function(){$(this).css("background-color","#bcddf9");}, function(){$(this).css("background-color","#FFF");});$(".mcx_dropbtn"+z).click(function(){$(".mcx_dropdown_panel"+z).toggle();$(".mcx_dropdown_panel"+z).css("text-align","center");});$(".answer:eq("+z+") input[type=radio]").css("display","none");$(".answer").eq(z).change(function(){$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();});if (window.location.href.indexOf("review") > -1) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();$(".mcx_dropdown"+z).css("background-color","#e8eef0");$(".mcx_dropbtn"+z).css("background-color","#e8eef0");$(".mcx_dropdown"+z).click(function(){$(".mcx_dropdown_panel"+z).hide();});}if ( $(".answer:eq("+z+") input[type=radio]").is(":checked") ) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();}}});</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>var defaultWidth = [40];$(document).ready(function() {$(".subquestion input").css("padding-left", "10px");$(".subquestion input").css("padding-right", "0px");$(".que input").each(function(i){var x = document.createElement("canvas");document.body.appendChild(x);$("canvas").css("display","none");var canvasid = "canvas_" + i;$("canvas:eq("+i+")").attr("id",canvasid);newWidth(i);$(".subquestion input:eq("+i+")").keyup(function() {newWidth(i);});});}); function newWidth(i) {defWidth = (typeof defaultWidth[i] === 'undefined') ? defaultWidth[0] : defaultWidth[i];var txt = $(".subquestion input:eq("+i+")").val();var size = $(".subquestion input:eq("+i+")").css('font-size');var sizeN = Number(size.substring(0, size.length -2));var family= $(".subquestion input:eq("+i+")").css('font-family');var getcanvas = "canvas_" + i;var c = document.getElementById(getcanvas);var ctx = c.getContext("2d");ctx.font = size + " " + family;var actualWidth = ctx.measureText(txt).width;var checkWidth = defWidth - sizeN ;if (actualWidth >= checkWidth) {$(".subquestion input:eq("+i+")").width(actualWidth + sizeN);} else {$(".subquestion input:eq("+i+")").width(defWidth);}}</script><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>
+INDICA LA RESPUESTA CORRECTA: {1:NM:~%100%35:0#Muy bien}<br>
+ ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text></generalfeedback><defaultgrade>1</defaultgrade><penalty>0.333333333333333</penalty><hidden>0</hidden><idnumber></idnumber>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+<!-- question: 803  --> <question type="cloze"> 
+ <name><text><![CDATA[PB - 803 PREGUNTA 2]]></text> </name> <questiontext format="html"> <text><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script><script>$(document).ready(function(){var mcxlist = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];mcxlist.forEach(formulas_mcx);function formulas_mcx(z) {$("div.mcx_dropdown:eq("+z+")").addClass("mcx_dropdown"+z.toString());$("div.answer:eq("+z+")").addClass("mcx_dropdown_panel"+z.toString());$("<div class='mcx_dropbtn"+z+"'>Select... <span style='vertical-align:3px;'>&varr;</span></div>").insertBefore("div.mcx_dropdown_panel"+z.toString());$(".mcx_dropdown"+z).css({"position":"relative", "display":"inline-block", "text-align":"center", "background-color":"#FFF", "border":"1px solid #8f959e", "padding":"5px"});$(".mcx_dropbtn"+z).css({"background-color":"#FFF", "text-align":"center", "cursor":"default", "display":"inline-block", "vertical-align":"middle", "padding":"3px 10px 4px" });$(".mcx_dropdown"+z+" i").css("display","inline-block");$(".mcx_dropdown"+z+" i").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropdown"+z+" .specificfeedback").css("display","inline-block");$(".mcx_dropdown"+z+" .specificfeedback").appendTo(".mcx_dropdown"+z+" + .mcx_feedback");$(".mcx_dropbtn"+z).css("width","200px");$(".mcx_dropdown_panel"+z).css({"display":"none", "position":"absolute", "min-width":"160px", "z-index":"1", "background-color":"#FFF", "border":"1px solid #CCC", "padding":"5px 10px 5px", "box-shadow":"0px 8px 16px 0px rgba(0,0,0,0.2)" });$(".mcx_dropdown_panel"+z+" div").css({"text-align":"center", "margin":"15px 0px"});$(".mcx_dropdown_panel"+z+" div").hover(function(){$(this).css("background-color","#bcddf9");}, function(){$(this).css("background-color","#FFF");});$(".mcx_dropbtn"+z).click(function(){$(".mcx_dropdown_panel"+z).toggle();$(".mcx_dropdown_panel"+z).css("text-align","center");});$(".answer:eq("+z+") input[type=radio]").css("display","none");$(".answer").eq(z).change(function(){$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();});if (window.location.href.indexOf("review") > -1) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();$(".mcx_dropdown"+z).css("background-color","#e8eef0");$(".mcx_dropbtn"+z).css("background-color","#e8eef0");$(".mcx_dropdown"+z).click(function(){$(".mcx_dropdown_panel"+z).hide();});}if ( $(".answer:eq("+z+") input[type=radio]").is(":checked") ) {$("div.mcx_dropbtn"+z).empty();$(".answer:eq("+z+") input[type=radio]:checked + label").clone().appendTo("div.mcx_dropbtn"+z.toString());$("div.mcx_dropbtn"+z).append(" &nbsp; &nbsp; <span style='vertical-align:3px;'>&varr;</span>");$(".mcx_dropdown_panel"+z).hide();}}});</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>var defaultWidth = [40];$(document).ready(function() {$(".subquestion input").css("padding-left", "10px");$(".subquestion input").css("padding-right", "0px");$(".que input").each(function(i){var x = document.createElement("canvas");document.body.appendChild(x);$("canvas").css("display","none");var canvasid = "canvas_" + i;$("canvas:eq("+i+")").attr("id",canvasid);newWidth(i);$(".subquestion input:eq("+i+")").keyup(function() {newWidth(i);});});}); function newWidth(i) {defWidth = (typeof defaultWidth[i] === 'undefined') ? defaultWidth[0] : defaultWidth[i];var txt = $(".subquestion input:eq("+i+")").val();var size = $(".subquestion input:eq("+i+")").css('font-size');var sizeN = Number(size.substring(0, size.length -2));var family= $(".subquestion input:eq("+i+")").css('font-family');var getcanvas = "canvas_" + i;var c = document.getElementById(getcanvas);var ctx = c.getContext("2d");ctx.font = size + " " + family;var actualWidth = ctx.measureText(txt).width;var checkWidth = defWidth - sizeN ;if (actualWidth >= checkWidth) {$(".subquestion input:eq("+i+")").width(actualWidth + sizeN);} else {$(".subquestion input:eq("+i+")").width(defWidth);}}</script><img src="https://i.ibb.co/tHdh0n9/GATO.gif" width="" height="200"></p>
+INDICA LA RESPUESTA CORRECTA: {1:NM:~%100%35:0#Muy bien}<br><br>
+<div class="mcx_dropdown" style="display: inline-block; vertical-align: top;">{1:MCVS:~%100%\( \frac{A\}{B\}\)#Muy bien~%0%\( \frac{C\}{D\}\)#Debes estudiar más~%0%\( \frac{E\}{F\}\)#Debes estudiar más}</div>
+<div class="mcx_feedback" style="display: inline-block;  vertical-align: top;"> </div><br>
+Elige la imagen correcta: <div class="mcx_dropdown" style="display: inline-block; vertical-align: top;">{1:MCVS:~%100%<img src="https://i.ibb.co/7Xcnp8k/profe2.png" width="150" height="">#Muy bien~%0%<img src="https://i.ibb.co/7Xss4jx/Alumno-hablando-rapido.gif" width="150" height="">#Debes estudiar más~%0%<img src=" https://i.ibb.co/tHdh0n9/GATO.gif " width="150" height="">#Debes estudiar más}</div>
+<div class="mcx_feedback" style="display: inline-block;  vertical-align: top;"> </div>
+ ]]></text></questiontext><generalfeedback format="html"><text><![CDATA[<p>Tomo nota de tu respuesta</p>]]></text></generalfeedback><defaultgrade>1</defaultgrade><penalty>0.333333333333333</penalty><hidden>0</hidden><idnumber></idnumber>
+    <hint format="html">
+      <text><![CDATA[<p>P1 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P2 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P3 </p>]]></text>
+     </hint>
+    <hint format="html">
+      <text><![CDATA[<p>P4 </p>]]></text>
+     </hint>
+</question>
+</quiz>
+
+
