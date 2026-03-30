@@ -2680,7 +2680,7 @@
       <text>NR - 601 Numeros Romanos</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><p style="text-align: center;">El Número Romano de 13 es [[6]]. El Siguiente Número Romano XXVIII es [[3]].</p>]]></text>
+      <text><![CDATA[<p>El Número Romano de 13 es [[6]]. El Siguiente Número Romano XXVIII es [[3]].</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p>0</p>]]></text>
